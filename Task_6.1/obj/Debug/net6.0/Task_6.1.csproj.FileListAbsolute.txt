@@ -1,0 +1,15 @@
+/Users/Renata/Desktop/Seminar_6/Tasks/Task_6.1/bin/Debug/net6.0/Task_6.1
+/Users/Renata/Desktop/Seminar_6/Tasks/Task_6.1/bin/Debug/net6.0/Task_6.1.deps.json
+/Users/Renata/Desktop/Seminar_6/Tasks/Task_6.1/bin/Debug/net6.0/Task_6.1.runtimeconfig.json
+/Users/Renata/Desktop/Seminar_6/Tasks/Task_6.1/bin/Debug/net6.0/Task_6.1.dll
+/Users/Renata/Desktop/Seminar_6/Tasks/Task_6.1/bin/Debug/net6.0/Task_6.1.pdb
+/Users/Renata/Desktop/Seminar_6/Tasks/Task_6.1/obj/Debug/net6.0/Task_6.1.csproj.AssemblyReference.cache
+/Users/Renata/Desktop/Seminar_6/Tasks/Task_6.1/obj/Debug/net6.0/Task_6.1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Renata/Desktop/Seminar_6/Tasks/Task_6.1/obj/Debug/net6.0/Task_6.1.AssemblyInfoInputs.cache
+/Users/Renata/Desktop/Seminar_6/Tasks/Task_6.1/obj/Debug/net6.0/Task_6.1.AssemblyInfo.cs
+/Users/Renata/Desktop/Seminar_6/Tasks/Task_6.1/obj/Debug/net6.0/Task_6.1.csproj.CoreCompileInputs.cache
+/Users/Renata/Desktop/Seminar_6/Tasks/Task_6.1/obj/Debug/net6.0/Task_6.1.dll
+/Users/Renata/Desktop/Seminar_6/Tasks/Task_6.1/obj/Debug/net6.0/refint/Task_6.1.dll
+/Users/Renata/Desktop/Seminar_6/Tasks/Task_6.1/obj/Debug/net6.0/Task_6.1.pdb
+/Users/Renata/Desktop/Seminar_6/Tasks/Task_6.1/obj/Debug/net6.0/Task_6.1.genruntimeconfig.cache
+/Users/Renata/Desktop/Seminar_6/Tasks/Task_6.1/obj/Debug/net6.0/ref/Task_6.1.dll
